@@ -7,7 +7,7 @@ while (true) {
         break;
     }
     if (guess == random) {
-        console.log("you are right! , congrats!! , random no was", random);
+        console.log("you are right! , congrats! , random no was", random);
         break;
     } else {
         console.log("your guess was wrong. please try again");
